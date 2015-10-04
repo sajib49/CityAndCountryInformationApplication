@@ -1,0 +1,54 @@
+﻿body {
+    background-image: url('../Images/bg.jpg');
+    background-attachment: fixed;
+}
+
+.wrapper {
+    width: 960px;
+    margin: auto;
+}
+
+.menu {
+    width: 100%;
+    background-color: skyblue;
+    border-radius: 7px;
+    height: 60px;
+
+}
+
+ul li {
+    display: inline;
+    float: left;
+    width: 180px;
+    text-align: center;
+    margin-top: 18px;
+    
+    
+}
+ul li a {
+    text-decoration: none;
+    width: 240px;
+    font-size: 20px;
+    color: maroon;
+}
+
+ul li a:hover {
+    color: green;
+}
+
+.clear {
+    clear: both;
+}
+
+.footer {
+    width: 100%;
+    background-color: skyblue;
+    border-radius: 7px;
+    text-align: center;
+}
+
+.content {
+    width: 100%;
+    height: auto;
+}
+

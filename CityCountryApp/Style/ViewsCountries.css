@@ -1,0 +1,31 @@
+﻿body {
+}
+
+.searchCritiria {
+    background-color: gray;
+    width: 950px;
+    height: 150px;
+    margin-top: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 7px;
+}
+
+.clear {
+    clear: both;
+}
+
+.searchCountry {
+    background-color: gray;
+    width: 950px;
+    height: auto;
+    margin-top: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 7px;
+    text-align: center;
+   
+}
+
